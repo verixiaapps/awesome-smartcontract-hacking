@@ -491,5 +491,7 @@
     * [Exploit Analysis](https://twitter.com/cmichelio/status/1398961421984075776) by Christoph Michel (@cmichelio)
     * [Belt Finance Attack Event Analysis](https://medium.com/@Knownsec_Blockchain_Lab/knownsec-blockchain-lab-belt-finance-attack-event-analysis-b0ba64b100bd) by Knownsec Blockchain Lab
     * [Belt - REKT](https://rekt.news/belt-rekt/) by rekt
+* [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 
